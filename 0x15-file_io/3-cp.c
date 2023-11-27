@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - function with two arguments
+ * mai n- function with two arguments
  * @argc: count of arguments
  * @argv: variadic arguments
  *
@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
 {
 	int to = 0, from = 0, to_count = 0;
 	char buffer[1024];
-	int from_count = 1024
+	int from_count = 1024;
 
 	if (argc != 3)
 	{
